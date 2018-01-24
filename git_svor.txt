@@ -31,3 +31,13 @@ Git spurningar og svör
 
 	git checkout:
 	Þessi skipun er notuð til þess að skipta um grein í git sem getur verið gott þegar maður vill vinna á fítus sem að maður er ekki viss um að sé sniðugur eða virki eða ef það er eitthver annar að vinna með manni á verkefni, þá er hægt að færa sig á milli greina með git checkout og vinna á nokkrum hlutum í einu í sama verkefni.
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff:
+	Git diff sér muninn á tveimur hlutum en það á eftir að eitthverju framaná þessa skipun svo að hún virki
+
+	b) git diff --staged :
+	Þessi skipun ber saman allt sem er staged
+
+	c) git diff commit1 commit2:
+	Þetta sér muninn á commit1 og commit2
