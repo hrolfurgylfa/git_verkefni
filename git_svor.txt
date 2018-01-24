@@ -1,1 +1,17 @@
 Git spurningar og svör
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd: 
+	þessi skipun er notuð í linux til þess að skipta um möppu sem maður er í
+
+	cd ~: 
+	þessi skipun sendir mann á heimasvæðið sitt
+
+	ls: 
+	þessi skipun segir maður hvað er í möppunni sem maður er staddur í
+
+	pwd: 
+	þessi skipun segir manni hvar maður er staddur í file systeminu
+
+	mkdir: 
+	þessi skipun býr til möppu
+
