@@ -48,3 +48,6 @@ Git spurningar og svör
 5. Hverjir eru helstu kostir við að nota GIT?
 	Hellstu kostirnir við að nota git er að git passar að maður skrifi ekki yfir gögnin sín eða að gögnin eyðinleggist ef drifið eyðinleggst sem gögnin eru á. Git hjálpar líka við hópavinnu ef það eru nokkrir að vinna saman eða meira að segja að leyfa hverjum sem er í heiminum að hjálpa til og samt er það frítt svo lengi sem manni er sama um að gögnin séu opin til allra.
 
+6. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	Mér finnst að maður egi að committa á 5-10 mínútna fresti vegna þess að ef maður missir gögnin sín þá man maður það sem maður er ekki búinn að committa og maður missir ekki mikinn tíma en maður er samt ekki að nota helminginn af tímanum sínum í að committa.
+
