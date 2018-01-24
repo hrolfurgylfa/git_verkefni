@@ -41,3 +41,7 @@ Git spurningar og svör
 
 	c) git diff commit1 commit2:
 	Þetta sér muninn á commit1 og commit2
+
+4. Hvað er útgáfustýring (e.version control)? 
+	Version control er forrit eða partur af forriti sem fylgist með breytingum í skjöl, git er svona forrit.
+
