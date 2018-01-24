@@ -45,3 +45,6 @@ Git spurningar og svör
 4. Hvað er útgáfustýring (e.version control)? 
 	Version control er forrit eða partur af forriti sem fylgist með breytingum í skjöl, git er svona forrit.
 
+5. Hverjir eru helstu kostir við að nota GIT?
+	Hellstu kostirnir við að nota git er að git passar að maður skrifi ekki yfir gögnin sín eða að gögnin eyðinleggist ef drifið eyðinleggst sem gögnin eru á. Git hjálpar líka við hópavinnu ef það eru nokkrir að vinna saman eða meira að segja að leyfa hverjum sem er í heiminum að hjálpa til og samt er það frítt svo lengi sem manni er sama um að gögnin séu opin til allra.
+
