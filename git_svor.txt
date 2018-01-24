@@ -1,17 +1,33 @@
 Git spurningar og svör
 1. Hvað gera eftirfarandi Linux skipanir?
 	cd: 
-	þessi skipun er notuð í linux til þess að skipta um möppu sem maður er í
+	Þessi skipun er notuð í linux til þess að skipta um möppu sem maður er í.
 
 	cd ~: 
-	þessi skipun sendir mann á heimasvæðið sitt
+	Þessi skipun sendir mann á heimasvæðið sitt.
 
 	ls: 
-	þessi skipun segir maður hvað er í möppunni sem maður er staddur í
+	Þessi skipun segir maður hvað er í möppunni sem maður er staddur í.
 
 	pwd: 
-	þessi skipun segir manni hvar maður er staddur í file systeminu
+	Þessi skipun segir manni hvar maður er staddur í file systeminu.
 
 	mkdir: 
-	þessi skipun býr til möppu
+	Þessi skipun býr til möppu.
 
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone: 
+	Þessi skipun klónar git repository sem getur verið gott þegar maður er með meira en eina tölvu, er búinn að búa til git repositoriið á annari tölvu og vantar að vinna á því á annari tölvu en maður bjó repositoriið til á.
+
+	git log: 
+	Þessi skipun sýnir allt sem maður er búinn að komitta sem getur verið gott þegar maður er búinn að gera villu og committa hana og þá getur maður notað log til þess að fá hashið af henni og þá getur maður fari til baka í þá færslu.
+
+	git status:
+	Þessi skipun sýnir manni statusinn á gitinu, hvort það sé búið að pusha öllu á git eða hvort það eigi kannski eftir að committa. Þetta getur verið gott þegar maður er ekki að ná að uppfæra skjalið á github, þá getur maður séð þarna hvort að það sé eitthvað
+	error.
+
+	git diff:
+	Þessi skipun sýnir mun á milli git greina sem getur verið gott þegar maður er að forrita og býr til tvær greinar vegna þess að maður er að prufa eitthvern nýan fítus en vill ekki setja það í aðal forritið svo seinna ef hann vill setja part af fítusinum inn en ekki allan, þá getur hann séð muninn á greininni með fítusinum og aðalforritinu og sett partana í sem hann vildi hafa.
+
+	git checkout:
+	Þessi skipun er notuð til þess að skipta um grein í git sem getur verið gott þegar maður vill vinna á fítus sem að maður er ekki viss um að sé sniðugur eða virki eða ef það er eitthver annar að vinna með manni á verkefni, þá er hægt að færa sig á milli greina með git checkout og vinna á nokkrum hlutum í einu í sama verkefni.
