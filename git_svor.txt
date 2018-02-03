@@ -57,3 +57,5 @@ Git spurningar og svör
 8. Hvenær er sniðugt að nota greinar (branches)? 
 	Það getur verið gott að nota greinar til dæmis þegar maður er að vinna með öðrum á forriti og maður er að vinna á öðrum parti af forritinu og þá þarf maður ekki alltaf að vera að lenda í árekstrum þegar maður commitar
 
+9. Hver fann upp GIT?
+	Linus Torvalds bjó git til og hann gerði það vegna þess að honum vantaði betri leið til þess að fá hjálp frá öðrum forriturum sem langaði að hjálpa til við að gera linux betra og þess vegna kemur git á öllum linux vélum
