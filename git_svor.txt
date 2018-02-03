@@ -51,3 +51,5 @@ Git spurningar og svör
 6. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 	Mér finnst að maður egi að committa á 5-10 mínútna fresti vegna þess að ef maður missir gögnin sín þá man maður það sem maður er ekki búinn að committa og maður missir ekki mikinn tíma en maður er samt ekki að nota helminginn af tímanum sínum í að committa.
 
+7. Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+	working directory í git er hvar þú ert að vinna í repositoríinu, staging area er staður þar sem commits fara áður en þú pushar þeim í repositoríið þitt og repository er eiginlega mappa sem heldur utanum allt sem þú ert að gera með gitt og þegar maður gerir git push þá pushar maður öllum commitunum í repositoryið
