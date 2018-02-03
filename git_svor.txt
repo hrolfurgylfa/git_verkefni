@@ -59,3 +59,6 @@ Git spurningar og svör
 
 9. Hver fann upp GIT?
 	Linus Torvalds bjó git til og hann gerði það vegna þess að honum vantaði betri leið til þess að fá hjálp frá öðrum forriturum sem langaði að hjálpa til við að gera linux betra og þess vegna kemur git á öllum linux vélum
+
+10. Hvar er GIT helst notað?
+	GIT er aðallega notað í open source forrit eins og Linus Torvalds notaði það til þess að gera linux betra
