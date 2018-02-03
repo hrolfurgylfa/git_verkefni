@@ -53,3 +53,7 @@ Git spurningar og svör
 
 7. Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 	working directory í git er hvar þú ert að vinna í repositoríinu, staging area er staður þar sem commits fara áður en þú pushar þeim í repositoríið þitt og repository er eiginlega mappa sem heldur utanum allt sem þú ert að gera með gitt og þegar maður gerir git push þá pushar maður öllum commitunum í repositoryið
+
+8. Hvenær er sniðugt að nota greinar (branches)? 
+	Það getur verið gott að nota greinar til dæmis þegar maður er að vinna með öðrum á forriti og maður er að vinna á öðrum parti af forritinu og þá þarf maður ekki alltaf að vera að lenda í árekstrum þegar maður commitar
+
